@@ -1,0 +1,17 @@
+Atividade avaliativa
+
+DESENVOLVA UM QUIZ DE UM DETERMINADO ASSUNTO 
+
+COMO NO MÍNIMO 10 (DEZ QUESTÕES)
+ 
+REQUISITOS
+ 
+- CADA QUESTÃO VALE UM PONTO 
+- DE ACORDO COM A PONTUAÇÃO OBTIDA O SISTEMA 
+
+RETORNARÁ AS SEGUINTES INFORMAÇÕES:
+1 - 3 Pontos - "  Precisa estudar mais, não sabe sobre o assunto"
+4 - 6 Pontos - " Pontuação boa mas precisa melhorar"
+7 - 9 Pontos - "Quase gabaritou , parabéns"
+10 Pontos - " Você tem dominio sobre o assunto"
+ 
